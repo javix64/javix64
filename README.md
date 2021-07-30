@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is a test
+Probably, I'm the only one who has a snake around the neck in all GitHub
 <!--
 **javix64/javix64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
